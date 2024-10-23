@@ -31,6 +31,13 @@
 - **RNF05**: ***Persistência de Dados***: O sistema deve salvar os dados de forma persistente, em um banco de dados para que as informações não sejam perdidas quando o programa for encerrado.
 - **RNF06**: ***Segurança***: O sistema deve garantir que os dados salvos sejam consistentes e protegidos contra corrupção, mesmo que haja falhas inesperadas ou encerramentos abruptos.
 
+### Protótipo 
+- ***MENU INICIAR***
+![layout_menu](images/layout_menu)
+
+- ***[01] - ADICIONAR TAREFA***
+![layout_tarefaexemplo.png](images/layout_tarefaexemplo.png)
+
 ### Modelo de Entidade e Relacionamento (DER)
 
 ### Tabela do Banco de Dados 
