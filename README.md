@@ -7,7 +7,7 @@
 - Python 3.12.0
 - Banco de Dados: SQLite3
 - Terminal
-- Docker para testes
+- VM VirtualBox para testes (Windows)
 
 ***Ambiente de Desenvovimento***
 - IDE: Pycharm Community 2024
